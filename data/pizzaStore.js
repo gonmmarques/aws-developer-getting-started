@@ -1,7 +1,8 @@
 const Sequelize = require('sequelize')
 
 const database = 'pizza_luvrs'
-const host = <add here host>
+// fix bellow the connection to the correct AWS Host
+const host = '127.0.0.1'
 const username = 'postgres'
 const password = 'postgres'
 

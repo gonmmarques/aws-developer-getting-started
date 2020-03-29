@@ -1,22 +1,20 @@
-## Demo Project for AWS Developer: Getting Started
+## Code used to complete the AWS Developer: Getting Started
 
-This repository contains the demo project for the [AWS Developer: Getting Started course on Pluralsight.com](http://www.pluralsight.com/courses/aws-developer-getting-started).
+The scope of the course is to know more about AW, by creating an infrastructure in AWS. It was built on AW services like:
+- IAM
+- CloudWatch
+- EC2
+- VPC
+- DynamoDB
+- RDS (PostgreSQL)
+- Elastic Beanstalk
+- Cloud Formation
+- Cloud Front
+- ElastiCache
 
-## Project Explanation
+The code is not ready to be used: you need to fix the connection to DB, S3 (and S3 paths to images) and fix the CloudFormation template according to your AWS setup.
 
-Pizza Luvrs is a social network for people who love pizza. Users can create accounts, create pizzas, and share them with others.
+For more info check out the [original repository](https://github.com/ryanmurakami/pizza-luvrs) and also check the 
+[AWS Developer: Getting Started course on Pluralsight.com](http://www.pluralsight.com/courses/aws-developer-getting-started). 
 
-![Pizza Luvrs](assets/pizza_shot.png)
-
-## Known Issues
-
-None at this time.
-
-Found one? Please let me know by opening an [issue](https://github.com/ryanmurakami/pizza-luvrs/issues)!
-
-## License
-
-All Images copyright Ryan Lewis
-
-All Code under MIT license
-
+I highly recommend this course if you are getting started (like me on) the AWS world!
