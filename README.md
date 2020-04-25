@@ -1,6 +1,6 @@
 ## Code used to complete the AWS Developer: Getting Started
 
-The scope of the course is to know more about AW, by creating an infrastructure in AWS. It was built on AW services like:
+The scope of the course is to know more about AWS, by creating an infrastructure in AWS. It was built on AW services like:
 - IAM
 - CloudWatch
 - EC2
