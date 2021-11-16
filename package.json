@@ -20,7 +20,7 @@
     "@hapi/inert": "5.2.1",
     "@hapi/joi": "15.1.0",
     "@hapi/vision": "5.5.2",
-    "aws-sdk": "2.488.0",
+    "aws-sdk": "2.814.0",
     "bcryptjs": "2.4.3",
     "bootflat": "2.0.4",
     "fs-extra": "8.1.0",
